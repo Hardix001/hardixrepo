@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-image: url(./image/cloud.jpg);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
